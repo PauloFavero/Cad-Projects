@@ -1,0 +1,22 @@
+﻿  MODEL MONTAGEM_FINAL :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 4
+
+Feature number 7 (COMPONENT, id = 43) 
+  in model MONTSENSORMASSA refers to:
+
+Feature number 8 (EXTRUDE_4, id = 186) 
+  in model SUPORTESENSORMASSA3 must follow after:
+
+Feature number 6 (EXTRUDE_2, id = 66) 
+  in model SUPORTESENSORMASSA3 refers to:
+
+Feature number 7 (COMPONENT, id = 43) 
+  in model MONTSENSORMASSA - circle closed.
+
